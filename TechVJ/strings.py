@@ -34,7 +34,10 @@ https://t.me/xxxx/1001-1010
 https://t.me/c/xxxx/101 - 120
 ```
 
-__note that space in between doesn't matter__"""
+__note that space in between doesn't matter__
+
+ JOIN TELEGARAM CHSANNEL:- https://t.me/Sonickuwalupdate
+"""
        
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
